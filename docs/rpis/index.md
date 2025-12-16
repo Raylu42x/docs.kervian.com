@@ -1,5 +1,5 @@
 ---
-title: Linux
+title: RPi Area
 nav_order: 10
 ---
 
