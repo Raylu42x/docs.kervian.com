@@ -1,5 +1,6 @@
 ---
-title: RPi Area
+title: RPis
+jas_children: true
 nav_order: 01
 ---
 
