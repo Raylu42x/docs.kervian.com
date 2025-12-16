@@ -1,10 +1,6 @@
 ---
-title: Raspberry Pi
+title: POP_OS! docker
 ---
-# Raspberry Pi
+# home docker set up
 
-Notes, projects, and setup info.
-
-See also:
-- [Linux](../linux/linux.md)
-- [Websites](../websites/websites.md)
+i did stuff
